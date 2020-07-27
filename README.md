@@ -1,6 +1,10 @@
+----------------------------------------------------------------------------------------------
+
+
 ![alt text](https://github.com/GBuenaflor/01azure/blob/master/Picture1.png)
 
 
+----------------------------------------------------------------------------------------------
 #  Microsoft Azure Project Series
 ----------------------------------------------------------------------------------------------
  
@@ -22,7 +26,7 @@
    Deploy and Serve Model using Azure Databricks, MLFlow and Azure ML deployment to ACI or AKS
      
    [Part 06](https://github.com/GBuenaflor/01azure-aks-keda/)
-   AKS based event-driven autoscaling using KEDA
+   UNDER CONSTRUCTION - AKS based event-driven autoscaling using KEDA
     
  ----------------------------------------------------------------------------------------------
  
