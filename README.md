@@ -8,11 +8,11 @@
    [Part 01](https://github.com/GBuenaflor/01azure-asp.netcore-mvc-sql-aks/) 
     Deploying ASP.net Core MVC and SQL Linux to Azure Kubernetes Service using Azure DevOps
         
-   </br>   
+  
    [Part 01](https://github.com/GBuenaflor/01azure-asp.netcore-mvc-sql-aks/) 
     Deploying ASP.net Core MVC and SQL Linux to Azure Kubernetes Service using Azure DevOps
     
-   </br>   
+
    [Part 01](https://github.com/GBuenaflor/01azure-asp.netcore-mvc-sql-aks/) 
     Deploying ASP.net Core MVC and SQL Linux to Azure Kubernetes Service using Azure DevOps
 
