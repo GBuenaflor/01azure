@@ -36,7 +36,7 @@
     Azure Web App For Containers configured with Azure AD B2C, Azure Front Door, Azure DNS Zone with Custom Domain with DigiCert Certificate
        
      
-   
+   [GitHub Pages](https://pages.github.com/)
    
  ----------------------------------------------------------------------------------------------
  
