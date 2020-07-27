@@ -4,11 +4,12 @@
 ![alt text](https://github.com/GBuenaflor/01azure/blob/master/Picture1.png)
 
 
+
 ----------------------------------------------------------------------------------------------
 #  Microsoft Azure Project Series
 ----------------------------------------------------------------------------------------------
  
-# 01. Azure Kubernentes
+# 01. Azure Kubernetes
        
    [Part 01](https://github.com/GBuenaflor/01azure-asp.netcore-mvc-sql-aks/) 
     Deploying ASP.net Core MVC and SQL Linux to Azure Kubernetes Service using Azure DevOps       
