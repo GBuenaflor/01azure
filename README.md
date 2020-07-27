@@ -3,16 +3,16 @@
  
 # 1. Azure Kubernentes
     
-   <br>
+   </br>
    
    [Part 01](https://github.com/GBuenaflor/01azure-asp.netcore-mvc-sql-aks/) 
     Deploying ASP.net Core MVC and SQL Linux to Azure Kubernetes Service using Azure DevOps
         
-   <br>   
+   </br>   
    [Part 01](https://github.com/GBuenaflor/01azure-asp.netcore-mvc-sql-aks/) 
     Deploying ASP.net Core MVC and SQL Linux to Azure Kubernetes Service using Azure DevOps
     
-   <br>   
+   </br>   
    [Part 01](https://github.com/GBuenaflor/01azure-asp.netcore-mvc-sql-aks/) 
     Deploying ASP.net Core MVC and SQL Linux to Azure Kubernetes Service using Azure DevOps
 
@@ -22,11 +22,11 @@
     
     
     
-   <br>
+   </br>
    [Part 02](https://github.com/GBuenaflor/01azure-aks-ingresscontroller-https/)
     NGINX Ingress Controller configured with Lets Encrypt Certificate and Azure DNS Zone
     
-   <br>
+   </br>
    [Part 03](https://github.com/GBuenaflor/01azure-aks-ingresscontroller-agic/)
    Application Gateway Ingress Controller (AGIC) configured with Lets Encrypt Certificate and Azure DNS Zone
     
