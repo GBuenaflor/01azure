@@ -19,7 +19,7 @@
  
  2. App Services
     <br>
-    [Part 01] (https://github.com/GBuenaflor/01azure-appservices-webapp4container-b2c) - 
+    [Part 01](https://github.com/GBuenaflor/01azure-appservices-webapp4container-b2c) - 
     Azure Web App For Containers configured with Azure AD B2C, Azure Front Door, Azure DNS Zone (Custom Domain with DigiCert Certificate)
     
     
