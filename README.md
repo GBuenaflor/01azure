@@ -1,10 +1,8 @@
 #  Microsoft Azure Project Series
 ----------------------------------------------------------------------------------------------
  
-# 1. Azure Kubernentes
-    
-   </br>
-   
+# 01. Azure Kubernentes
+       
    [Part 01](https://github.com/GBuenaflor/01azure-asp.netcore-mvc-sql-aks/) 
     Deploying ASP.net Core MVC and SQL Linux to Azure Kubernetes Service using Azure DevOps       
     
@@ -25,13 +23,11 @@
     
  ----------------------------------------------------------------------------------------------
  
- # 2. App Services
+ # 02. Azure AppServices
    
    [Part 01](https://github.com/GBuenaflor/01azure-appservices-webapp4container-b2c/)
    Azure Web App For Containers configured with Azure AD B2C, Azure Front Door, Azure DNS Zone with Custom Domain(DigiCert Certificate)
-            
-   [Part 01](https://github.com/GBuenaflor/01azure-appservices-webapp4container-b2c/)
-   
+               
    
  ----------------------------------------------------------------------------------------------
  
