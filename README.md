@@ -10,7 +10,7 @@
     
    <br>
    [Part 02](https://github.com/GBuenaflor/01azure-aks-ingresscontroller-https/)
-   NGINX Ingress Controller configured with Lets Encrypt Certificate and Azure DNS Zone
+    NGINX Ingress Controller configured with Lets Encrypt Certificate and Azure DNS Zone
     
    <br>
    [Part 03](https://github.com/GBuenaflor/01azure-aks-ingresscontroller-agic/)
