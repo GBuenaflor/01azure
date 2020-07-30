@@ -9,9 +9,8 @@
 #  Microsoft Azure Project Series
 ----------------------------------------------------------------------------------------------
  
-## 01. Azure Kubernetes
- 
- | No.                                                                        | Project                                                                                  |
+
+ | No.                                                                        | Azure Kubernetes                                                                         |
  | ---------------------------------------------------------------------------| -----------------------------------------------------------------------------------------|
  | [Part 01](https://github.com/GBuenaflor/01azure-asp.netcore-mvc-sql-aks/)  | Deploying ASP.net Core MVC and SQL Linux to Azure Kubernetes Service using Azure DevOps  |
  | [Part 02](https://github.com/GBuenaflor/01azure-aks-ingresscontroller-https/) | NGINX Ingress Controller configured with Lets Encrypt Certificate and Azure DNS Zone  |
@@ -22,10 +21,10 @@
     
  ----------------------------------------------------------------------------------------------
  
- ## 02. Azure AppServices
-   
-   [Part 01](https://github.com/GBuenaflor/01azure-appservices-webapp4container-b2c/)
-   Azure Web App For Containers configured with Azure AD B2C, Azure Front Door, Azure DNS Zone with Custom Domain(DigiCert Certificate)
+
+ | No.                                                                        | Azure AppServices                                                                        |
+ | ---------------------------------------------------------------------------| -----------------------------------------------------------------------------------------|
+ | [Part 01](https://github.com/GBuenaflor/01azure-appservices-webapp4container-b2c/) | Azure Web App For Containers configured with Azure AD B2C, Azure Front Door, Azure DNS Zone with Custom Domain(DigiCert Certificate) |
                
    
  ----------------------------------------------------------------------------------------------
