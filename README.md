@@ -15,11 +15,7 @@
  | [04](https://github.com/GBuenaflor/01azure-aks-azure-ad-integration/) | Identity and Access Management through Azure AD and RBAC (Cluster Level) |    
  | [05](https://github.com/GBuenaflor/01azure-aks-databricks-mlflow-azureML-deployment/) | Deploy and Serve Model using Azure Databricks, MLFlow and Azure ML deployment to ACI or AKS |     
   | [06](https://github.com/GBuenaflor/01azure-aks-keda/) | UNDER CONSTRUCTION - AKS based event-driven autoscaling using KEDA |
-   
-```html
-    <span style="color:red"> UNDER CONSTRUCTION </span>
-   
-```
+ 
  ----------------------------------------------------------------------------------------------
  
 
