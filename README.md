@@ -7,9 +7,9 @@
 ----------------------------------------------------------------------------------------------
 
 ```diff
- - I will add content every week or two, please stay tuned.
+- I will add content every week or two, please stay tuned.
 ```
- 
+
  
 
  | No.                                                                        | Azure Kubernetes                                                                         |
