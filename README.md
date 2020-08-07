@@ -7,7 +7,7 @@
 ----------------------------------------------------------------------------------------------
 
 ```diff
-- I will add content every week or two, please stay tuned.
+- Started April 2020. I will add content every week or two, please stay tuned.
 ```
 
  
