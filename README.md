@@ -3,7 +3,7 @@
 ![alt text](https://github.com/GBuenaflor/01azure/blob/master/Picture1.png)
 
 ----------------------------------------------------------------------------------------------
-##  Microsoft Azure - "nugget" series
+##  Microsoft Azure Container Ecosystem - "nugget" series
 ----------------------------------------------------------------------------------------------
 
 ```diff
