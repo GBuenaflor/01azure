@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------------------
 
-![alt text](https://github.com/GBuenaflor/01azure/blob/master/Picture1.png)
+![alt text](https://github.com/GBuenaflor/01azure/blob/master/Picture2.png)
 
 ----------------------------------------------------------------------------------------------
 ##  Microsoft Azure Container Ecosystem - "nugget" series
