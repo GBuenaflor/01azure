@@ -7,7 +7,18 @@
 ----------------------------------------------------------------------------------------------
 
 ```diff
-- Started April 2020. I will add content every week or two, please stay tuned.
+
+- Started April 2020. I always wanted to start this, now it's started.
+- I will make each nugget short, generic, and easy to follow. 
+- I have many nuggets to share, I enjoy doing this and I will add content every week or two.
+- THanks for the great feedbacks.
+
+Please stay tuned.  :D
+
+
+Skol! Many Thanks,
+//GB  
+
 ```
 
  
@@ -23,6 +34,8 @@
   | [07](https://github.com/GBuenaflor/01azure-aks-keda/) | AKS based event-driven autoscaling using KEDA with Function App Docker Container |
   | [08](https://github.com/GBuenaflor/01azure-aks-apimanagement/) | Use Azure API Management with microservices (WCF and Web API) deployed in AKS - Episode 01|
   | [09](https://github.com/GBuenaflor/01azure-aks-apimanagement-02/) | Use Azure API Management with microservices (WCF and Web API) deployed in AKS - Episode 02|
+  | [10](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/) | Use Azure API Management with microservices (WCF and Web API) deployed in AKS - Episode 03|
+  
     
  
  ----------------------------------------------------------------------------------------------
