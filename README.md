@@ -7,16 +7,9 @@
 ----------------------------------------------------------------------------------------------
 
 ```diff
-- Started April 2020. I always wanted to start this, now it's started.
-- I will make each nugget short, generic, and easy to follow. 
-- I have many nuggets to share, I enjoy doing this and I will add content every week or two.
-- THanks for the great feedbacks.
-
-Please stay tuned.
-
-Skol! Many Thanks,
-//GB  
-
+- Started April 2020 during lockdown. I always wanted to start this, now it's started. 
+- I will add content every week or two. 
+- Please stay Tuned!..
 ```
 
  
