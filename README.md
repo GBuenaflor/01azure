@@ -22,7 +22,8 @@
  | [06](https://github.com/GBuenaflor/01azure-aks-databricks-mlflow-azureML-deployment/) | Deploy and Serve Model using Azure Databricks, MLFlow and Azure ML deployment to ACI or AKS |     
   | [07](https://github.com/GBuenaflor/01azure-aks-keda/) | AKS based event-driven autoscaling using KEDA with Function App Docker Container |
   | [08](https://github.com/GBuenaflor/01azure-aks-apimanagement/) | Use Azure API Management with microservices (WCF and Web API) deployed in AKS - Episode 01|
-   
+  | [09](https://github.com/GBuenaflor/01azure-aks-apimanagement-02/) | Use Azure API Management with microservices (WCF and Web API) deployed in AKS - Episode 02|
+    
  
  ----------------------------------------------------------------------------------------------
  
