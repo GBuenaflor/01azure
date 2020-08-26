@@ -7,8 +7,7 @@
 ----------------------------------------------------------------------------------------------
 
 ```diff
-- Started April 2020 during lockdown. I always wanted to start this, now it's started. 
-- I will add content every week or two. 
+- Started April 2020 during lockdown. I will add content every week or two. 
 - Please stay Tuned!..
 ```
 
