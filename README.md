@@ -8,7 +8,6 @@
 
 ```diff
 - Started April 2020 during lockdown. I will add content every week or two. 
-- Please stay Tuned!..
 ```
 
  
