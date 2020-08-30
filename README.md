@@ -24,7 +24,6 @@
   | [08](https://github.com/GBuenaflor/01azure-aks-apimanagement/) |  AKS | Use Azure API Management with microservices (WCF and Web API) deployed in AKS - Episode 01|
   | [09](https://github.com/GBuenaflor/01azure-aks-apimanagement-02/) |  AKS | Use Azure API Management with microservices (WCF and Web API) deployed in AKS - Episode 02|
   | [10](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/) |  AKS | Use Azure API Management with microservices (WCF and Web API) deployed in AKS - Episode 03|
-  | [11](https://github.com/GBuenaflor/01azure-aks-calico) |  AKS | ##UNDER CONSTRUCTION## Using Calico for cluster-pod isolation in AKS |  
   | [01](https://github.com/GBuenaflor/01azure-appservices-webapp4container-b2c/) | App Service | Azure Web App For Containers configured with Azure AD B2C, Azure Front Door, Azure DNS Zone with Custom Domain(DigiCert Certificate) |
   
     
